@@ -11,7 +11,7 @@
     <title></title>
   </head>
   <body>
-  <h1>Hola Mundo</h1>
+  <h1>Hola Mundo de <span style="font-size: 110%">nuevo</span></h1>
 
   </body>
 </html>
